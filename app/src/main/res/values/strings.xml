@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Examen_Francisco_Juesas</string>
+    <string-array name="planets_array">
+        <item>Todas</item>
+        <item>Política</item>
+        <item>Economía</item>
+        <item>Cultura</item>
+        <item>Deportes</item>
+    </string-array>
+    <string-array name="news_array">
+        <item>Noticia Política</item>
+        <item>Noticia Economía</item>
+        <item>Noticia Cultura</item>
+        <item>Noticia Deportes</item>
+    </string-array>
+</resources>
